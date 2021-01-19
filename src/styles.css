@@ -1,0 +1,46 @@
+html,
+body {
+  margin: 0;
+}
+
+.header {
+  top: 0;
+  color: #f5564e;
+  background-color: #8fbaf3;
+  padding: 1.5rem;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.genre-button {
+  margin: auto;
+  cursor: pointer;
+  background: #fab95b;
+  border-radius: 0.5rem;
+  padding: 1rem 1rem;
+  border: 1px solid black;
+  margin: 1rem 0rem;
+  font-size: larger;
+}
+
+.genre-button {
+  margin: auto;
+  padding: 1rem;
+}
+
+.movie .movie-list {
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid black;
+  width: 80%;
+  margin: auto;
+  border-radius: 0.5rem;
+  background-color: #fab95b;
+}
